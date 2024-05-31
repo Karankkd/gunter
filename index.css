@@ -70,7 +70,7 @@ header{
 }
 
 .bg-image{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.607), rgba(0, 0, 0, 0.607)) ,url("/image/banner-bg.jpg");
+    background-image:linear-gradient(rgba(0, 0, 0, 0.607), rgba(0, 0, 0, 0.607)) ,url("image/banner-bg.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -615,7 +615,7 @@ header{
 
 
 .image-section .col{
-    background-image: url(/image/projects1.jpg);
+    background-image: url(image/projects1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -647,7 +647,7 @@ header{
 }
 
 .image-section .col2{
-    background-image: url(/image/projects2.jpg);
+    background-image: url(image/projects2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -657,7 +657,7 @@ header{
 }
 
 .image-section .col3{
-    background-image: url(/image/projects3.jpg);
+    background-image: url(image/projects3.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1383,7 +1383,7 @@ header{
     position: relative;
     width: 100%;
     height: 100%;
-    background-image: url('/image/news.jpg');
+    background-image: url('image/news.jpg');
     background-position: center;
     background-size: cover;
     z-index: 2;
